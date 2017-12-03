@@ -1,0 +1,17 @@
+<application>
+  <component name="PasswordDatabase">
+    <option name="MASTER_PASSWORD_INFO" value="01000000d08c9ddf0115d1118c7a00c04fc297eb01000000b00ec38648a9964c8ba52e4387caeee800000000160000004d006100730074006500720020004b0065007900000010660000000100002000000005962abed194673894cf2d9b8155c4bd940925f4bd5a8815f22fc11042878921000000000e80000000020000200000007378fd0b238d19a81b61d9d526226c67d005843f29e895fc7ff1bd770b00d2ee100000005b56f6f928cc7f6c33c0d32a1be4aa42400000003d943394da7de6388508c1c80620deb472a7d3b01fdbe73c4e412ec06e8185469e370e36a54dbed4b1d0dc6bb96f1745d52fbf90456d47c882b2b825bfcac640" />
+    <option name="PASSWORDS">
+      <array>
+        <array>
+          <option value="d28acec37b84e9ca2fa431fd517dabb46eba766d876c83d964446865fbab1ca6" />
+          <option value="0a24a32a6311209cc42641e090ce283a9a6f1ce6aed32edb433b215177b1e333" />
+        </array>
+        <array>
+          <option value="4bb29dbdffc530fdc6a8e862da6e555d0f83f33e29f2dfdffc166aad424962c6" />
+          <option value="c0a545dab5e493ba40a12f751bc55ed3" />
+        </array>
+      </array>
+    </option>
+  </component>
+</application>
